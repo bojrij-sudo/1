@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  background: #1a1a2e;
+  color: #eee;
+  text-align: center;
+  margin: 20px;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  margin: 10px auto;
+  font-size: 18px;
+}
+
+#game {
+  border: 2px solid #4a4a6a;
+  background: #16213e;
+  border-radius: 8px;
+}
+
+.hidden { display: none; }
+
+#message {
+  color: #ff7675;
+  font-size: 18px;
+  margin-top: 12px;
+}
